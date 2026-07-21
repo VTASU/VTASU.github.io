@@ -1,0 +1,12 @@
+# this file contains the social media links and usernames of the author
+# the socials will be displayed in the order they are defined here
+# for the full list of supported keys, see the jekyll-socials plugin:
+# https://github.com/george-gca/jekyll-socials
+email: vtirukko@asu.edu # your email address (displayed with an obfuscated mailto)
+scholar_userid: a3-gEcMAAAAJ # your Google Scholar ID
+github_username: VTASU # your GitHub username
+# linkedin_username: # the part after linkedin.com/in/
+# orcid_id: # your ORCID id (e.g., 0000-0000-0000-0000)
+# x_username: # your X/Twitter handle
+# cv_pdf: /assets/pdf/cv.pdf # uncomment once you add a CV PDF to assets/pdf/
+rss_icon: true # comment this line to hide the RSS icon

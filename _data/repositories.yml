@@ -1,0 +1,9 @@
+github_users:
+  - VTASU
+
+repo_description_lines_max: 2
+
+# Feature specific repositories as "owner/name".
+# Leave empty to show only the GitHub user stats/trophies card above.
+github_repos:
+  # - VTASU/your-repo
