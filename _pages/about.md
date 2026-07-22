@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: false # set to true and add files to `_news/` to show a news feed here
+  enabled: true # news items live in `_news/`
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -27,8 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a PhD student in Computer Science at [Arizona State University](https://www.asu.edu/). My research lies at the intersection of **statistical machine learning** and **information theory** — I work on learning the structure of graphical models from data, and on sequential decision-making under uncertainty (multi-armed bandits).
+I am a PhD student in Computer Science at [Arizona State University](https://www.asu.edu/), advised by [Dr. Gautam Dasarathy](https://gautamdasarathy.com/).
 
-I am broadly interested in the theoretical foundations of learning: what can be learned efficiently from data, and with what statistical and computational guarantees.
+My research is in **statistical machine learning**, **high-dimensional statistics**, and **bandits** — broadly, how much data is needed to recover structure in complex systems, and how to make good decisions under uncertainty. I am also interested in **agentic networks** and the **theory of large language models**.
 
 Feel free to reach out over email, or take a look at my [publications](/publications/).
